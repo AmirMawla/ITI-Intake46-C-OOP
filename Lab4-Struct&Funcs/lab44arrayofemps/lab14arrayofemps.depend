@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761050275 source:d:\amir\data\programing\learning\iti\oop\lab1\lab14arrayofemps\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

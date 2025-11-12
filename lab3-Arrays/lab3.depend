@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1761077379 source:c:\users\20110\onedrive\desktop\iti46\lab3\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1761729997 source:c:\users\amirm\downloads\iti46\lab3\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+

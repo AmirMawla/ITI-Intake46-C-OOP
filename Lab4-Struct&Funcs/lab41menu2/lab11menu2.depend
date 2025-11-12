@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761134714 source:d:\amir\data\programing\learning\iti\oop\lab1\lab11menu2\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

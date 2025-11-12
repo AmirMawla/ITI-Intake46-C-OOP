@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761479172 source:d:\amir\data\programing\learning\iti\oop\lab4\lab41stack\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+

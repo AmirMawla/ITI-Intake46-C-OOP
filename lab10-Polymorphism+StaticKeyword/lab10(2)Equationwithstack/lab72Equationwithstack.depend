@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1761929166 source:d:\amir\data\programing\learning\iti\oop\lab7\lab72equationwithstack\main.cpp
+	<iostream>
+	<cctype>
+	<cstring>
+	<string.h>
+	<conio.h>
+

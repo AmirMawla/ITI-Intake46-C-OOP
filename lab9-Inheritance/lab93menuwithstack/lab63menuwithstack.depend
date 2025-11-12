@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761568161 source:d:\amir\data\programing\learning\iti\oop\lab5\lab63menuwithstack\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

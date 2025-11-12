@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1761553857 source:d:\amir\data\programing\learning\iti\oop\lab5\lab61person\main.cpp
+	<iostream>
+	<string.h>
+

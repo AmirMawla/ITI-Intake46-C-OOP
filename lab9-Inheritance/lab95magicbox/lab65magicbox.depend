@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761618899 source:d:\amir\data\programing\learning\iti\oop\lab5\lab65magicbox\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
